@@ -1,4 +1,4 @@
-# git-user-name [![NPM version](https://img.shields.io/npm/v/git-user-name.svg)](https://www.npmjs.com/package/git-user-name) [![Build Status](https://travis-ci.org/imweb/git-user-name.svg?branch=master)](https://travis-ci.org/imweb/git-user-name)
+# git-user-name [![NPM version](https://img.shields.io/npm/v/imweb-git-user-name.svg)](https://www.npmjs.com/package/git-user-name) [![Build Status](https://travis-ci.org/imweb/git-user-name.svg?branch=master)](https://travis-ci.org/imweb/git-user-name)
 
 > Get a user's name from git config at the project or global scope, depending on what git uses in the current context.
 
